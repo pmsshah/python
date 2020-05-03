@@ -1,0 +1,41 @@
+Open	Own	Finance	Expensis	Work
+Open	Own	Finance	Expensis	Work
+Open	Own	Finance	Expensis	Work
+Open	Own	Finance	Expensis	Work
+Open	Own	Finance	Expensis	Work
+Open	Own	Finance	Expensis	Work
+Open	Own	Finance	Expensis	Work
+Open	Own	Finance	Expensis	Work
+Open	Own	Finance	Expensis	Work
+Open	Own	Finance	Expensis	Work
+Close	Own	Finance	Bank	CreditBurew
+Close	Own	Finance	Bank	Citizen
+Close	Own	Finance	Insurance	Auto
+Close	Own	Finance	Insurance	Auto
+Close	Own	Finance	Bank	CreditBurew
+Open	Own	Finance	Expensis	Home
+Open	Own	Finance	Expensis	Home
+Open	Own	Finance	Expensis	Work
+Open	Own	Finance	Expensis	Mirchi
+Close	Own	Finance	Bank	CapitalOne
+Close	Own	Finance	Bank	CapitalOne
+Close	Own	Finance	Bank	CapitalOne
+Close	Own	Finance	Bank	CapitalOne
+Close	Own	Finance	Bank	CapitalOne
+Close	Own	Finance	Bank	CapitalOne
+Close	Own	Finance	Bank	CapitalOne
+Close	Own	Finance	Bank	CapitalOne
+Close	Own	Finance	Bank	CapitalOne
+Close	Own	Finance	Bank	CapitalOne
+Close	Own	Home	House	Docs
+Close	Own	Finance	Insurance	Home
+Close	Own	Finance	Rental	
+Close	Own	Finance	Rental	
+Close	Own	Finance	Rental	
+Close	Own	Finance	Rental	
+Close	Own	Finance	Rental	
+Close	Own	Finance	Rental	
+Close	Own	Finance	Rental	
+Close	Own	Finance	Rental	
+Open	Own	Finance	Expensis	General
+Open	Own	Finance	Expensis	General
